@@ -13,4 +13,6 @@ def conexio():
     except:
         #Si falla mostra 'Problema de conexio'
         print("Problema en la conexio")
+        
     return connection
+
